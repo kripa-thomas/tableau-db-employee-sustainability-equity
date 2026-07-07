@@ -20,7 +20,7 @@ By bypassing high-level, aggregate corporate averages, an interactive executive 
 
 ## 🌐 Interactive Tableau Dashboard
 
-👉 **[Explore the Full Interactive Dashboard](https://public.tableau.com/views/WorkforceAttrition_Diagnostic_Tableau/SCSDashboard_presentation?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)** 
+👉 **[Explore the Full Interactive Dashboard](https://public.tableau.com/views/WorkforceAttrition_Diagnostic_Tableau/SCSDashboard_presentation?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)** (Please view in full-screen)
 
 The dashboard acts as a comprehensive executive control panel, allowing users to:
 * **Slice data dynamically** by demographic groups (`Gender` and `ATSI` status) via a nested hamburger filter menu.
